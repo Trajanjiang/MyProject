@@ -1,2 +1,2 @@
 # MyProject
-# The document includes the project I do (and participate in team) at the Columbia University when I studied as a master degree in Statistics. 
+# The document includes the project I did (also containing team work) at the Columbia University when I studied as a master degree in Statistics. 
